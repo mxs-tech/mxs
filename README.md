@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Marcelo Xavier
-**Arquiteto de Software** | Engenheiro de Plataformas
+**Arquiteto de Software** | **Engenheiro de Plataformas**
 
 Arquiteto e engenheiro de software com experiência no projeto e desenvolvimento de plataformas completas — da definição da arquitetura à implantação e evolução contínua. Atuo em todas as etapas do ciclo de vida do software, com forte ênfase em sistemas escaláveis, seguros e financeiramente sustentáveis.
 
@@ -7,7 +7,7 @@ Minha trajetória combina engenharia de software e gestão financeira, o que me 
 
 ---
 
-## 💻 **Linguagens de Programação**
+## 💻 Linguagens de Programação
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -18,7 +18,15 @@ Minha trajetória combina engenharia de software e gestão financeira, o que me 
 
 ---
 
-## 🎯 **O que eu construo**
+## 🧩 Frameworks & Front-end
+
+![Angular 22](https://img.shields.io/badge/Angular_22-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+---
+
+## 🎯 O que eu construo
 
 - **Plataformas multi-tenant** — autenticação, autorização, billing e administração unificada.
 - **Sistemas distribuídos** — backends resilientes, filas de processamento, cache e observabilidade.
@@ -27,7 +35,7 @@ Minha trajetória combina engenharia de software e gestão financeira, o que me 
 
 ---
 
-## 🧠 **Princípios que guiam meu trabalho**
+## 🧠 Princípios que guiam meu trabalho
 
 - **Arquitetura limpa** — separação de responsabilidades, baixo acoplamento e alta coesão.
 - **Segurança por padrão** — autenticação, autorização, criptografia e boas práticas desde o início.
@@ -68,7 +76,7 @@ Minha trajetória combina engenharia de software e gestão financeira, o que me 
 ---
 
 <div align="center">
-  
-  🧢 *Arquitetura de software como ferramenta para criar valor real.*
+
+🧢 *Arquitetura de software como ferramenta para criar valor real.*
 
 </div>
